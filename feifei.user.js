@@ -1,24 +1,24 @@
 // ==UserScript==
-// @name         腓腓 — 外链直连
-// @namespace    https://github.com/kc9vu/feifei
-// @version      1.3.0
-// @description  《山海经》有兽名腓腓，养之可以解忧。解析页面外链跳转拦截，直达目标地址。
-// @author       腓腓
-// @license      MIT
-// @match        http?://*/*
-// @exclude      http?://www.google.*/*
-// @exclude      http?://*.baidu.com/*
-// @exclude      http?://*.bing.com/*
-// @exclude      http?://sogou.com/*
-// @exclude      http?://*.sogou.com/*
-// @exclude      http?://*.so.com/*
-// @exclude      http?://duckduckgo.com/*
-// @exclude      http?://yandex.*/*
-// @exclude      http?://*.yandex.*/*
-// @grant        GM_getValue
-// @grant        GM_setValue
-// @grant        GM_registerMenuCommand
-// @run-at       document-end
+// @name            腓腓 — 外链直连
+// @namespace       https://github.com/kc9vu/feifei
+// @version         1.3.0
+// @description    《山海经》有兽名腓腓，养之可以解忧。解析页面外链跳转拦截，直达目标地址。
+// @author          腓腓
+// @license         MIT
+// @match           *://*/*
+// @exclude-match   http?://www.google.*/*
+// @exclude-match   http?://*.baidu.com/*
+// @exclude-match   http?://*.bing.com/*
+// @exclude-match   http?://sogou.com/*
+// @exclude-match   http?://*.sogou.com/*
+// @exclude-match   http?://*.so.com/*
+// @exclude-match   http?://duckduckgo.com/*
+// @exclude-match   http?://yandex.*/*
+// @exclude-match   http?://*.yandex.*/*
+// @grant           GM_getValue
+// @grant           GM_setValue
+// @grant           GM_registerMenuCommand
+// @run-at          document-end
 // ==/UserScript==
 
 (function () {
