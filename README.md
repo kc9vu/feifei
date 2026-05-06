@@ -46,8 +46,8 @@
 
 ```
 域名（支持 * 通配）: link.example.com
-参数名:                 target
-路径前缀（可选）:        /redirect
+参数名:            target
+路径前缀（可选）:    /redirect
 ```
 
 ### 删除自定义规则
@@ -82,4 +82,4 @@
 
 ## License
 
-MIT(LICENSE)
+[MIT](LICENSE)
